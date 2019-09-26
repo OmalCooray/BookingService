@@ -26,7 +26,7 @@ libraryDependencies ++= {
   )
 }
 
-libraryDependencies += "mysql" % "mysql-connector-java" % "6.0.6"
+libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.44"
 
 
 /* Jackson dependencies */
